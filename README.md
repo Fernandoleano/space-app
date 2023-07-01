@@ -38,7 +38,7 @@ Check out the [demo of the Space Website](https://space-app-two.vercel.app/)
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue.
 
 ## Image
-<img width="1440" alt="Screen Shot 2023-06-30 at 8 21 25 PM" src="https://github.com/Fernandoleano/space-app/assets/68082556/fc4de4ed-f25a-4f4c-8f22-3e00a2cc0290">
+<img width="1440" alt="Screen Shot 2023-06-30 at 8 21 25 PM" src="https://github.com/Fernandoleano">
 
 ## Credits
 
