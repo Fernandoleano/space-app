@@ -6,8 +6,8 @@ This project is a single-page application built with React and Tailwind CSS. It 
 
 ## Demo
 
-Check out the demo of the SpaceX Website:
-https://space-app-two.vercel.app/
+Check out the [demo of the Space Website](https://space-app-two.vercel.app/):
+
 ![Demo GIF](demo.gif)
 
 ## Features
