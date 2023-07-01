@@ -38,11 +38,12 @@ Check out the [demo of the Space Website](https://space-app-two.vercel.app/)
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue.
 
 ## Image
-<img width="1440" alt="Screen Shot 2023-06-30 at 8 21 25 PM" src="[https://github.com/Fernandoleano](https://github.com/Fernandoleano)">
+<img width="1435" alt="Screen Shot 2023-06-30 at 10 15 56 PM" src="https://github.com/Fernandoleano/space-app/assets/68082556/26c5695f-1871-4812-a15e-50ab8d4582e6">
+
 
 ## Credits
 
-This project was created by [Fernando Leano](https://github.com/your-username).
+This project was created by [Fernando Leano](https://github.com/Fernandoleano).
 
 ## License
 
