@@ -1,0 +1,61 @@
+.space-page {
+    background: url('https://media.istockphoto.com/id/1442849073/photo/the-earth-space-planet-3d-illustration-background-city-lights-on-planet.webp?b=1&s=170667a&w=0&k=20&c=foa5cwpPC7CgJLq3je4ZLC0t2_exCQcamB2rNzwODys=') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  .contact-form-container {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 2rem;
+    color: #fff;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .contact-form-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-label {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-form-input,
+  .contact-form-textarea {
+    padding: 0.5rem;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+  }
+  
+  .contact-form-textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .contact-form-button {
+    padding: 0.5rem 1rem;
+    background-color: #4ba2ff;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .contact-form-button:hover {
+    background-color: #3691e1;
+  }
