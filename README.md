@@ -42,7 +42,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/your-username).
+This project was created by [Fernando Leano](https://github.com/your-username).
 
 ## License
 
