@@ -2,7 +2,7 @@
 
 Welcome to the Space Website project! 🚀
 
-This project is a single-page application built with React and Tailwind CSS. It showcases information about SpaceX and allows users to explore the wonders of space.
+This project is a single-page application built with React and Tailwind CSS. It showcases information about Space and allows users to explore the wonders of space.
 
 ## Demo
 
