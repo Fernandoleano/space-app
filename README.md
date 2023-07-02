@@ -42,8 +42,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 <img width="1440" alt="Screen Shot 2023-07-01 at 8 31 52 PM" src="https://github.com/Fernandoleano/space-app/assets/68082556/4de01ec3-4bb2-4984-b9e2-8b323cebd84a">
 
-![image](https://github.com/Fernandoleano/space-app/assets/68082556/24fe49ef-1166-4174-971a-5fa3c88a71d7)
+<img width="1440" alt="Screen Shot 2023-07-01 at 8 41 00 PM" src="https://github.com/Fernandoleano/space-app/assets/68082556/b4ce2949-3843-4c68-9c03-760ccf851c15">
 
+![image](https://github.com/Fernandoleano/space-app/assets/68082556/24fe49ef-1166-4174-971a-5fa3c88a71d7)
 
 ![image](https://github.com/Fernandoleano/space-app/assets/68082556/da628ec4-d7ec-42fd-ad49-c78402ab3702)
 
