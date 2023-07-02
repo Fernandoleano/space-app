@@ -12,7 +12,9 @@ const Space = () => {
             </Link>
             </li>
               <li>
-                <a href="#about">About</a>
+                <Link to="/about" className="text-white hover:text-gray-500 transition duration-200">
+              About
+            </Link>
               </li>
               <li>
                 <a href="#planets">Planets</a>
