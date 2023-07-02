@@ -20,6 +20,11 @@ const Header = () => {
             </Link>
           </li>
           <li>
+            <Link to="/about" className="text-white hover:text-gray-500 transition duration-200">
+              About
+            </Link>
+          </li>
+          <li>
             <Link to="/contact" className="text-white hover:text-gray-500 transition duration-200">
               Contact
             </Link>

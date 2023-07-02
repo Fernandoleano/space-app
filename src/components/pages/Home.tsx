@@ -18,8 +18,8 @@ const Home = () => {
         </div>
         <div className="w-1/2 flex justify-center">
           <img
-            src="https://o.remove.bg/downloads/fb8723ac-c2fd-4ce5-adcb-a438bda35cd3/_methode_sundaytimes_prod_web_bin_5e724310-20a4-11ed-8cc0-b6d3f6238a92-removebg-preview.png"
-            alt="Rocket 1"
+            src="https://o.remove.bg/downloads/61c40dd5-d7d9-4c5e-9c37-567ec850894b/space-shuttle-transparent-background-3d-rendering-illustration_494250-21331-removebg-preview.png"
+            alt="Rocket"
             className="rocket-image"
           />
         </div>
